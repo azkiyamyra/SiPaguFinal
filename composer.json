@@ -1,0 +1,17 @@
+{
+    "name": "lenovo/si-pagu",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\SiPagu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "azkiyamyra",
+            "email": "azkiyamyrah@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "1.29"
+    }
+}
